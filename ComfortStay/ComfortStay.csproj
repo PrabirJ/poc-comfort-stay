@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.FileProviders.Abstractions" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.FileSystemGlobbing" Version="2.2.0" />
+	<PackageReference Include="Microsoft.Extensions.Primitives" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Comfortstay.BusinessServices\Comfortstay.BusinessServices.csproj" />
+    <ProjectReference Include="..\ComfortStay.Utility\ComfortStay.Utility.csproj" />
+    <ProjectReference Include="..\HotelSearchApiPlugin\ComfortStay.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

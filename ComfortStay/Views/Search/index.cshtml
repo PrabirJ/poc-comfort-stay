@@ -1,0 +1,85 @@
+﻿@model ComfortStay.Models.SearchRequestModel
+@{
+    ViewData["Title"] = "Hotel Search Page";
+}
+
+<style>
+
+    .form-main {
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .form-input-fields {
+        margin-bottom: 0;
+    }
+
+    .navbar {
+        background-color: #00805e;
+        background-image: none;
+    }
+</style>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <!-- all the navigation stuff -->
+
+        <div class="col-md-3">
+            <h2 style="color: yellow">Destination Next</h2>
+        </div>
+    </div>
+</nav>
+<div class="container" style="margin-top: 30px; height: 300px">
+    <div style="max-width: 300px; padding: 10px; border-color: black; border-style: dashed; margin: 10px">
+        <form asp-action="Index" method="post" class="form-main nofloat-xs pull-left-sm">
+
+            <div class="form-group">
+                <label>Destination</label>
+                <select class="custom-select form-control" asp-for="DestinationId" required>
+                    <option selected value="">Select Destination</option>
+                    <option value="279">India</option>
+                    <option value="1419">Dubai</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>No. of Nights</label>
+                <input type="number" min="1" asp-for="Nights" class="form-control" placeholder="Nights" required>
+            </div>
+            <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Search</button>
+        </form>
+    </div>
+
+    <table class="table table-dark" style="padding: 10px; border-color: black; border-style: dashed; margin: 10px">
+        <thead>
+            <tr>
+                <th scope="col">Board Type</th>
+                <th scope="col">Hotel Name</th>
+                <th scope="col">Rate Type</th>
+                <th scope="col">Actual Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var resultSet = ViewData["ResultSet"] as List<ComfortStay.Models.SearchResponseModel>;
+            }
+            @if (resultSet != null && resultSet.Any())
+            {
+                @foreach (var hotel in resultSet)
+                {
+                    <tr>
+                        <td>@hotel.BoardType</td>
+                        <td>@hotel.HotelName</td>
+                        <td>@hotel.RateType</td>
+                        <td>@hotel.ActualPrice</td>
+                    </tr>
+                }
+            }
+            else if (resultSet != null)
+            {
+                <tr>
+                    <td colspan="5" class="text-danger">No data found</td>
+                </tr>
+            }
+            else { }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,28 @@
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.deps.json
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfo.cs
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.csproj.CopyComplete
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.deps.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.deps.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\HotelSearchApiPlugin\obj\Debug\netcoreapp2.1\ComfortStay.Repository.pdb

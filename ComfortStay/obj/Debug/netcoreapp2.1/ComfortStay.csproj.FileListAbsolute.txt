@@ -1,0 +1,70 @@
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cs
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.deps.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.runtimeconfig.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.runtimeconfig.dev.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Views.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.TagHelpers.input.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.TagHelpers.output.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorCoreGenerate.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Search\index.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Search\index2.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorTargetAssemblyInfo.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorTargetAssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csproj.CopyComplete
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.deps.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.runtimeconfig.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.runtimeconfig.dev.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Views.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\Comfortstay.BusinessServices.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\Comfortstay.BusinessServices.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorAssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.TagHelpers.input.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.TagHelpers.output.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorCoreGenerate.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Search\index.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Search\index2.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorTargetAssemblyInfo.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.RazorTargetAssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.csproj.CopyComplete
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\obj\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Utility.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay\bin\Debug\netcoreapp2.1\ComfortStay.Utility.pdb

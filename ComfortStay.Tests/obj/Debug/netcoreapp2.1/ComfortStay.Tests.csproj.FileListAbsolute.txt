@@ -1,0 +1,78 @@
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.deps.json
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfo.cs
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CopyComplete
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.json
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.dev.json
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\589913\Desktop\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.deps.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.dev.json
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CopyComplete
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\BackUp\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csprojAssemblyReference.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CoreCompileInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfoInputs.cache
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.AssemblyInfo.cs
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Views.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.deps.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.runtimeconfig.dev.json
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Comfortstay.BusinessServices.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\Comfortstay.BusinessServices.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Repository.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.csproj.CopyComplete
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\obj\Debug\netcoreapp2.1\ComfortStay.Tests.pdb
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Utility.dll
+C:\Users\589913\Desktop\BackUp - Copy (3)\WebBeds_Prabir\ComfortStay\ComfortStay.Tests\bin\Debug\netcoreapp2.1\ComfortStay.Utility.pdb

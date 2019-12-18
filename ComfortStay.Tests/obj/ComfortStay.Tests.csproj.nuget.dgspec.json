@@ -1,0 +1,409 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Tests\\ComfortStay.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\Comfortstay.BusinessServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\Comfortstay.BusinessServices.csproj",
+        "projectName": "Comfortstay.BusinessServices",
+        "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\Comfortstay.BusinessServices.csproj",
+        "packagesPath": "C:\\Users\\474191\\.nuget\\packages\\",
+        "outputPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\474191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Tests\\ComfortStay.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Tests\\ComfortStay.Tests.csproj",
+        "projectName": "ComfortStay.Tests",
+        "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Tests\\ComfortStay.Tests.csproj",
+        "packagesPath": "C:\\Users\\474191\\.nuget\\packages\\",
+        "outputPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\474191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj"
+              },
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\ComfortStay.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\ComfortStay.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj",
+        "projectName": "ComfortStay.Utility",
+        "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj",
+        "packagesPath": "C:\\Users\\474191\\.nuget\\packages\\",
+        "outputPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\474191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\ComfortStay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\ComfortStay.csproj",
+        "projectName": "ComfortStay",
+        "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\ComfortStay.csproj",
+        "packagesPath": "C:\\Users\\474191\\.nuget\\packages\\",
+        "outputPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\474191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\Comfortstay.BusinessServices.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\Comfortstay.BusinessServices\\Comfortstay.BusinessServices.csproj"
+              },
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\ComfortStay.Utility\\ComfortStay.Utility.csproj"
+              },
+              "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj": {
+                "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileSystemGlobbing": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj",
+        "projectName": "ComfortStay.Repository",
+        "projectPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\ComfortStay.Repository.csproj",
+        "packagesPath": "C:\\Users\\474191\\.nuget\\packages\\",
+        "outputPath": "C:\\Bijit\\DOTW\\SourceCode\\POC For Review\\Prabir\\HotelSearchApiPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\474191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
