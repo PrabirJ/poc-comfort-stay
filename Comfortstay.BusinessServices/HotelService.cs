@@ -33,14 +33,6 @@
                     foreach (var rate in hotel.Rates)
                     {
                         rate.ActualPrice = rate.RateType == "PerNight" ? rate.UnitPrice * nights : rate.UnitPrice;
-                        //responseMessage.SearchDetails.Add(new SearchDetails
-                        //{
-                        //    BoardType = rate.BoardType,
-                        //    HotelName = hotel.Hotel.Name,
-                        //    BasePrice = rate.Value,
-                        //    ActualPrice = rate.RateType == "PerNight" ? rate.Value * nights : rate.Value,
-                        //    RateType = rate.RateType
-                        //});
                     }
                 }
             }
